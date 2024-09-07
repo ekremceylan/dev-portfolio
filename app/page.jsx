@@ -68,7 +68,7 @@ export default function Home() {
                 <FaGithub className="w-8 h-8 fill-current" />
               </motion.a>
               <motion.a
-                href="https://www.linkedin.com/in/ekremceylan"
+                href="https://www.linkedin.com/in/ekrem-ceylan-307382302"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
